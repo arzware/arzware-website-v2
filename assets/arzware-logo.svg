@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="600" viewBox="0 0 1800 600">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="90" y="120" width="360" height="360" rx="82" stroke="url(#g)" stroke-width="28"/>
+<path d="M165 405 L270 195 L375 405" stroke="#374151" stroke-width="35"/>
+<path d="M190 275 H355 L195 365 H365" stroke="url(#g)" stroke-width="26"/>
+</g>
+<g><circle cx="190" cy="275" r="14" fill="#2563EB"/><circle cx="355" cy="275" r="14" fill="#7C3AED"/><circle cx="195" cy="365" r="14" fill="#2563EB"/><circle cx="365" cy="365" r="14" fill="#7C3AED"/></g>
+<text x="540" y="330" font-family="DejaVu Sans,Arial,sans-serif" font-size="142" font-weight="700"><tspan fill="url(#g)">ARZ</tspan><tspan fill="#374151">WARE</tspan></text>
+<text x="548" y="399" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" fill="#6B7280" letter-spacing="2">DIGITAL SYSTEMS</text>
+<circle cx="1115" cy="388" r="6" fill="#2563EB"/><circle cx="1149" cy="388" r="6" fill="#7C3AED"/><circle cx="1183" cy="388" r="6" fill="#6B7280"/>
+</svg>
