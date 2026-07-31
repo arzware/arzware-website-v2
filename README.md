@@ -1,24 +1,39 @@
-# Arzware Website V2
+# Arzware Website V2 — The Business Evidence Board
 
-Motion-rich website concept for Arzware's refreshed positioning:
+A motion-led, editorial website concept for Arzware.
 
-**Connecting Businesses. Building Futures.**
+**Core message:** Bring us the messy part.
 
-Built with Vite, React, TypeScript, GSAP, Lenis, and Arzware brand assets.
+The experience starts with recognizable business friction—the unanswered message, repeated task, scattered spreadsheet, or growth idea without an owner—and visually turns that evidence into one accountable next move.
 
-## Local development
+## Direction
+
+- Tactile evidence-board and field-file visual system
+- Business-first narrative rather than a generic agency service menu
+- Warm paper, carbon ink, cobalt blue, and signal orange palette
+- GSAP document reveals, animated route tracing, and pointer-reactive evidence notes
+- Responsive and reduced-motion-aware
+
+See [`DESIGN.md`](./DESIGN.md) for the full creative rationale.
+
+## Development
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Build
+## Verification
 
 ```bash
+npm run lint
 npm run build
 ```
 
-## Deploy
+## Deployment
 
-GitHub Pages uses the `gh-pages` branch generated from `dist/`.
+The production build is published to the `gh-pages` branch.
+
+```bash
+npm run deploy
+```
